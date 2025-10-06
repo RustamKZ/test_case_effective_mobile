@@ -1,7 +1,5 @@
 package com.example.test_case_effective_mobile.design
 
-import android.R.attr.contentDescription
-import android.R.attr.top
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -34,7 +32,6 @@ import com.example.test_case_effective_mobile.R
 import com.example.test_case_effective_mobile.api.Course
 import com.example.test_case_effective_mobile.ui.theme.CustomBlackCardColor
 import com.example.test_case_effective_mobile.ui.theme.CustomBlackColor
-import com.example.test_case_effective_mobile.ui.theme.CustomGray
 import com.example.test_case_effective_mobile.ui.theme.CustomGreen
 import com.example.test_case_effective_mobile.ui.theme.Roboto
 
